@@ -289,7 +289,6 @@
         </script>
     </head>
     <body>
-        Selected = (<span id="selected"> , </span>)
         <div id="canvas-wrap" style="margin-left:auto;margin-right:auto;width:700px; height:700px;">
             <canvas id="canvas"></canvas>
         </div>
